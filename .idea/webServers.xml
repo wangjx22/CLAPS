@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d1475d1-ce77-4061-a7f3-e036d03c852d" name="175" url="http://175.6.7.134">
+        <fileTransfer host="175.6.7.134" port="6001" rootFolder="/ifs/home/2019/wangjinxian" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="6001" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
