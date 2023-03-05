@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="wangjinxian@175.6.7.134:6001">
+    <serverData>
+      <paths name="175">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ifs/home/2019/wangjinxian/SimCLR-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dlab@192.168.31.121:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dlab/SimCLR-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangjinxian@175.6.7.134:6001">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_715" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a46adf7e-009c-455d-a032-2091dc48b1fb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wKi83dnWEtPShzci5GIe4pQ16D" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SinScRNACluster" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SimCLR-master" />
+      <recent name="D:\SimCLR-master\data\pretrain\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SimCLR-master" />
+      <recent name="C:\Users\sin\Desktop" />
+      <recent name="D:\bio论文\cabios-template" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plt_bbbp">
+    <configuration name="MultiheadAttention_R1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda3\envs\pytorch\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiheadAttention_R1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TransformerEncoderLayer_R1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda3\envs\pytorch\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransformerEncoderLayer_R1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda3\envs\pytorch\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_con" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda3\envs\pytorch\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_con.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_downstream" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_downstream.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_downstream_reg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_downstream_reg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plt_bbbp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/results" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/results/plt_bbbp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimCLR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main_con" />
+      <item itemvalue="Python.TransformerEncoderLayer_R1" />
+      <item itemvalue="Python.MultiheadAttention_R1" />
+      <item itemvalue="Python.main_downstream" />
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.temp_test" />
+      <item itemvalue="Python.main_downstream_reg" />
+      <item itemvalue="Python.plt" />
+      <item itemvalue="Python.plt_bbbp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plt_bbbp" />
+        <item itemvalue="Python.plt" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.main_downstream_reg" />
+        <item itemvalue="Python.temp_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46adf7e-009c-455d-a032-2091dc48b1fb" name="Default Changelist" comment="" />
+      <created>1628213517068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628213517068</updated>
+      <workItem from="1628213530878" duration="48434000" />
+      <workItem from="1628389730200" duration="2395000" />
+      <workItem from="1628691321553" duration="11000" />
+      <workItem from="1628990622105" duration="1153000" />
+      <workItem from="1629075646623" duration="4029000" />
+      <workItem from="1629163434432" duration="2462000" />
+      <workItem from="1629364557543" duration="17164000" />
+      <workItem from="1629614811275" duration="2669000" />
+      <workItem from="1629729894538" duration="10975000" />
+      <workItem from="1630137886483" duration="1506000" />
+      <workItem from="1630202162633" duration="602000" />
+      <workItem from="1630242632644" duration="3483000" />
+      <workItem from="1636076563675" duration="5306000" />
+      <workItem from="1636336780853" duration="29683000" />
+      <workItem from="1636595668201" duration="5333000" />
+      <workItem from="1636693234446" duration="4588000" />
+      <workItem from="1636770386350" duration="4208000" />
+      <workItem from="1636863180899" duration="14741000" />
+      <workItem from="1636956388970" duration="5460000" />
+      <workItem from="1636974972179" duration="67240000" />
+      <workItem from="1637198336956" duration="33608000" />
+      <workItem from="1637467686302" duration="1183000" />
+      <workItem from="1637544456701" duration="5697000" />
+      <workItem from="1637630829552" duration="23899000" />
+      <workItem from="1637677357365" duration="11091000" />
+      <workItem from="1637994486763" duration="6157000" />
+      <workItem from="1638066195661" duration="10771000" />
+      <workItem from="1638235435954" duration="6041000" />
+      <workItem from="1638321375335" duration="9782000" />
+      <workItem from="1638349378411" duration="5293000" />
+      <workItem from="1638500800010" duration="940000" />
+      <workItem from="1639112833539" duration="284000" />
+      <workItem from="1639574284570" duration="177000" />
+      <workItem from="1640240136282" duration="1868000" />
+      <workItem from="1640690229961" duration="5481000" />
+      <workItem from="1640858748426" duration="586000" />
+      <workItem from="1640946903587" duration="662000" />
+      <workItem from="1641880580817" duration="2843000" />
+      <workItem from="1642055506392" duration="2113000" />
+      <workItem from="1642590477792" duration="5882000" />
+      <workItem from="1643025399806" duration="2434000" />
+      <workItem from="1643169654172" duration="10479000" />
+      <workItem from="1643720158902" duration="148000" />
+      <workItem from="1644934402169" duration="621000" />
+      <workItem from="1644984895277" duration="2383000" />
+      <workItem from="1645089447290" duration="3193000" />
+      <workItem from="1645175962468" duration="3629000" />
+      <workItem from="1645367190964" duration="2118000" />
+      <workItem from="1645429124076" duration="2061000" />
+      <workItem from="1645499380121" duration="4838000" />
+      <workItem from="1645581429479" duration="1157000" />
+      <workItem from="1646011188280" duration="6593000" />
+      <workItem from="1646096688219" duration="1769000" />
+      <workItem from="1646143081470" duration="18000" />
+      <workItem from="1646222629535" duration="38000" />
+      <workItem from="1646827473496" duration="906000" />
+      <workItem from="1646886982078" duration="1436000" />
+      <workItem from="1646959849140" duration="1337000" />
+      <workItem from="1646965206784" duration="36000" />
+      <workItem from="1647053548228" duration="1284000" />
+      <workItem from="1647134802221" duration="3741000" />
+      <workItem from="1647218165943" duration="1053000" />
+      <workItem from="1647486216272" duration="11240000" />
+      <workItem from="1647564443355" duration="8238000" />
+      <workItem from="1648283926111" duration="846000" />
+      <workItem from="1648605386705" duration="1353000" />
+      <workItem from="1648641397680" duration="5683000" />
+      <workItem from="1648820866573" duration="56000" />
+      <workItem from="1648821094505" duration="520000" />
+      <workItem from="1649218534087" duration="13709000" />
+      <workItem from="1649256678835" duration="294000" />
+      <workItem from="1649295646576" duration="2048000" />
+      <workItem from="1649473195329" duration="1180000" />
+      <workItem from="1649736760409" duration="1673000" />
+      <workItem from="1649931742784" duration="153000" />
+      <workItem from="1649932684113" duration="702000" />
+      <workItem from="1649933465530" duration="3597000" />
+      <workItem from="1651023409712" duration="995000" />
+      <workItem from="1655083911984" duration="2730000" />
+      <workItem from="1655255241911" duration="4470000" />
+      <workItem from="1656080578291" duration="5872000" />
+      <workItem from="1656565780381" duration="6371000" />
+      <workItem from="1657288306145" duration="698000" />
+      <workItem from="1657350530014" duration="1189000" />
+      <workItem from="1657507737799" duration="6829000" />
+      <workItem from="1657759270276" duration="10806000" />
+      <workItem from="1658401876348" duration="597000" />
+      <workItem from="1659620684308" duration="5058000" />
+      <workItem from="1660145277576" duration="10000" />
+      <workItem from="1660181326069" duration="7994000" />
+      <workItem from="1660223360547" duration="7466000" />
+      <workItem from="1660355657604" duration="15738000" />
+      <workItem from="1660528647558" duration="3755000" />
+      <workItem from="1660700298599" duration="3488000" />
+      <workItem from="1660993941180" duration="8375000" />
+      <workItem from="1662456500397" duration="1850000" />
+      <workItem from="1669615045148" duration="4998000" />
+      <workItem from="1670481604297" duration="1133000" />
+      <workItem from="1673000419647" duration="1656000" />
+      <workItem from="1675478063324" duration="1205000" />
+      <workItem from="1676425977638" duration="1974000" />
+      <workItem from="1677390289392" duration="789000" />
+      <workItem from="1677550327768" duration="35554000" />
+      <workItem from="1677734071195" duration="9601000" />
+      <workItem from="1677809442289" duration="5445000" />
+      <workItem from="1677891717357" duration="2988000" />
+      <workItem from="1677981035076" duration="7952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Trans_Torch.py</url>
+          <line>296</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp.py</url>
+          <line>249</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="smile_seqs" language="Python" />
+        <watch expression="data_list[67]" />
+        <watch expression="smiles" />
+        <watch expression="mask_slef_attn" />
+        <watch expression="enc_outputs_mask" />
+        <watch expression="enc_outputs_mask" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimCLR_master$plt.coverage" NAME="plt Coverage Results" MODIFIED="1677556040220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$pytest_in_main_py.coverage" NAME="pytest in main.py Coverage Results" MODIFIED="1628235432296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$temp.coverage" NAME="temp Coverage Results" MODIFIED="1649256795954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$xgboost.coverage" NAME="xgboost Coverage Results" MODIFIED="1630294650435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$Trans_Torch.coverage" NAME="Trans_Torch Coverage Results" MODIFIED="1637062609770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$transformer_smiles.coverage" NAME="transformer_smiles Coverage Results" MODIFIED="1637040622739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$temp_test.coverage" NAME="temp_test Coverage Results" MODIFIED="1642056337540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$main_downstream.coverage" NAME="main_downstream Coverage Results" MODIFIED="1677646962440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$plt_bbbp.coverage" NAME="plt_bbbp Coverage Results" MODIFIED="1677743467222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/results" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$main_downstream_tem.coverage" NAME="main_downstream_tem Coverage Results" MODIFIED="1638359822214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$MultiheadAttention_R1.coverage" NAME="MultiheadAttention_R1 Coverage Results" MODIFIED="1636529042969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$main_con.coverage" NAME="main_con Coverage Results" MODIFIED="1660447733693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$TransformerEncoderLayer_R1.coverage" NAME="TransformerEncoderLayer_R1 Coverage Results" MODIFIED="1636527811949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$main_downstream_reg.coverage" NAME="main_downstream_reg Coverage Results" MODIFIED="1647494754160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$utils_test.coverage" NAME="utils_test Coverage Results" MODIFIED="1628305447515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$main.coverage" NAME="main Coverage Results" MODIFIED="1628235569916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SimCLR_master$model.coverage" NAME="model Coverage Results" MODIFIED="1628235448812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
