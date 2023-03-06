@@ -15,6 +15,7 @@ conda env create -f environment.yml
 
 ## 2. Usage
 ### 2.1 Pre-train CLAPS in ZINC15 dataset
+Unzip the pretrain/processed/in-vitro.rar before pre-training
 ```
 python main_con.py --datafile='in-vitro' --path='pretrain' --batch_size 1500 --mask_st="roulette" --dropout 0.2 --n_heads 4 --n_layers 3 --lr 0.001 --DNN_dim1 2048 --DNN_dim2 512
 ```
